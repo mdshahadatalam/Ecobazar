@@ -421,7 +421,7 @@ margin: 0 !important;
     padding: 0 !important;
 }
 .subcribe-botton{
-    font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 600;
 font-size: 16px;
 line-height: 125%;
